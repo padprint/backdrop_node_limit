@@ -1,3 +1,5 @@
+Initial port from Drupal.
+
 node_limit Module
 
 This module allows administrators to limit the number of nodes that users may create.  This limitation may be done on a per-role or per-user basis.
